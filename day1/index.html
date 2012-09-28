@@ -1,0 +1,410 @@
+<!DOCTYPE html>
+
+<!--
+  Taken from Google I/O 2011 HTML slides template
+
+  Authors: Luke Mahé (code)
+           Marcin Wichary (code and design)
+           Dominic Mazzoni (browser compatibility)
+           Charles Chen (ChromeVox support)
+		   Michael Brunton-Spall (Lightning talk support)
+
+  Original URL: http://code.google.com/p/io-2011-slides/
+  URL: http://github.com/bruntonspall/html5-slides/
+-->
+
+<html>
+  <head>
+    <title>Web Dev Fundamentals - Day 1</title>
+
+    <meta charset='utf-8' />
+    <script src='slides.js'></script>
+  </head>
+
+  <style>
+    /* Your individual styles here, or just use inline styles if that’s
+       what you want. */
+	article.biglogo {
+		background: white url(images/MiB-logo-man.png) 50% 50% no-repeat;
+	}
+
+  </style>
+
+  <body style='display: none'>
+	<!-- This is the lightning timer, it autoadvances slides every 15 seconds -->
+	<!-- <div id="timer" class="floating advance">5:00</div> -->
+
+    <section class='slides layout-regular'>
+
+      <!-- Your slides (<article>s) go here. Delete or comment out the
+           slides below. -->
+
+
+
+   
+
+      <article>
+        <h1>
+          Web Dev Fundamentals
+          <br>
+         
+        </h1>
+        <h2> Day 1 - Setup</h2>
+        <p>
+          Chirag Chamoli
+          <br>
+          Sep 22, 2012
+        </p>
+      </article>
+
+      <article>
+
+        <ul>
+          <li>Communication: <a href="https://groups.google.com/group/web-dev-fundamentals">Web Dev Fundamentals</a></li>
+          <li>Code: <a href="https://github.com/webdevawsm">webdevawsm</a></li>
+          <li>Daily Tools
+              <ul>
+                <li>Sublime/Notepad++</li>
+                <li>GitBash</li>
+                <li>Github</li>
+                <li>HeidiSQL</li>
+                <li>xampp</li>
+                <li>FileZilla</li>
+              </ul>
+
+          </li>
+          
+<img src=" http://motitdev.s3.amazonaws.com/poster_11.JPG" alt="">
+
+        </ul>
+
+
+      </article>
+
+      <article>
+        <h3>
+          Real Life Project
+        </h3>
+        <p>
+          Think of one. You can work in teams or alone.
+        </p>
+        <p>
+          <code>Discuss</code>.
+        </p>
+      </article>
+
+      <article class='smaller'>
+        <h3>
+          A Generic Web App
+        </h3>
+        <p>
+              <img style='height: 500px' src='images/stack-generic.png'>
+        </p>
+        
+      </article>
+
+       <article>
+        <h1>Inspect Element / Firebug</h1>
+        
+
+        <q>
+          Steve Jobs: Good artists copy great artists steal.
+        </q>
+        <div class='author'>
+          Steve Jobs
+        </div>
+      </article>
+
+
+      <article>
+        <p>Day 2: Structure of your App and Dive into HTML5</p>
+        <h2>End of day 1</h2>
+      </article>
+
+
+     <!--  <article>
+        <h3>
+          Slide with bullet points and a longer title, just because we
+          can make it longer
+        </h3>
+        <ul>
+          <li>
+            Use this template to create your presentation
+          </li>
+          <li>
+            Use the provided color palette, box and arrow graphics, and
+            chart styles
+          </li>
+          <li>
+            Instructions are provided to assist you in using this
+            presentation template effectively
+          </li>
+          <li>
+            At all times strive to maintain Google's corporate look and feel
+          </li>
+        </ul>
+      </article>
+
+      <article>
+        <h3>
+          Slide with bullet points that builds
+        </h3>
+        <ul class="build">
+          <li>
+            This is an example of a list
+          </li>
+          <li>
+            The list items fade in
+          </li>
+          <li>
+            Last one!
+          </li>
+        </ul>
+
+        <div class="build">
+          <p>Any element with child nodes can build.</p>
+          <p>It doesn't have to be a list.</p>
+        </div>
+      </article>
+
+      <article class="auto" data-build-time=3000>
+        <h3>
+          Slide with bullet points that automatically builds
+        </h3>
+        <ul class="build">
+          <li>
+            This is an example of an auto list
+          </li>
+          <li>
+            The list items fade in after 1 second by default
+          </li>
+          <li>
+            The timer is adjustable with a data element
+          </li>
+        </ul>
+      </article>
+
+      <article class='smaller'>
+        <h3>
+          Slide with bullet points (small font)
+        </h3>
+        <ul>
+          <li>
+            Use this template to create your presentation
+          <li>
+            Use the provided color palette, box and arrow graphics, and
+            chart styles
+          <li>
+            Instructions are provided to assist you in using this
+            presentation template effectively
+          <li>
+            At all times strive to maintain Google's corporate look and feel
+        </ul>
+      </article>
+
+      <article>
+        <h3>
+          Slide with a table
+        </h3>
+
+        <table>
+          <tr>
+            <th>
+              Name
+            <th>
+              Occupation
+          <tr>
+            <td>
+              Luke Mahé
+            <td>
+              V.P. of Keepin’ It Real
+          <tr>
+            <td>
+              Marcin Wichary
+            <td>
+              The Michael Bay of Doodles
+        </table>
+      </article>
+
+      <article class='smaller'>
+        <h3>
+          Slide with a table (smaller text)
+        </h3>
+
+        <table>
+          <tr>
+            <th>
+              Name
+            <th>
+              Occupation
+          <tr>
+            <td>
+              Luke Mahé
+            <td>
+              V.P. of Keepin’ It Real
+          <tr>
+            <td>
+              Marcin Wichary
+            <td>
+              The Michael Bay of Doodles
+        </table>
+      </article>
+
+      <article>
+        <h3>
+          Styles
+        </h3>
+        <ul>
+          <li>
+            <span class='red'>class="red"</span>
+          <li>
+            <span class='blue'>class="blue"</span>
+          <li>
+            <span class='green'>class="green"</span>
+          <li>
+            <span class='yellow'>class="yellow"</span>
+          <li>
+            <span class='black'>class="black"</span>
+          <li>
+            <span class='white'>class="white"</span>
+          <li>
+            <b>bold</b> and <i>italic</i>
+        </ul>
+      </article>
+
+      <article>
+        <h2>
+          Segue slide
+        </h2>
+      </article>
+
+      <article>
+        <h3>
+          Slide with an image
+        </h3>
+        <p>
+          <img style='height: 500px' src='images/example-graph.png'>
+        </p>
+        <div class='source'>
+          Source: Sergey Brin
+        </div>
+      </article>
+
+      <article>
+        <h3>
+          Slide with an image (centered)
+        </h3>
+        <p>
+          <img class='centered' style='height: 500px' src='images/example-graph.png'>
+        </p>
+        <div class='source'>
+          Source: Larry Page
+        </div>
+      </article>
+
+      <article class='fill'>
+        <h3>
+          Image filling the slide (with optional header)
+        </h3>
+        <p>
+          <img src='images/example-cat.jpg'>
+        </p>
+        <div class='source white'>
+          Source: Eric Schmidt
+        </div>
+      </article>
+
+      <article>
+        <h3>
+          This slide has some code
+        </h3>
+        <section>
+        <pre>
+&lt;script type='text/javascript'&gt;
+  // Say hello world until the user starts questioning
+  // the meaningfulness of their existence.
+  function helloWorld(world) {
+    for (var i = 42; --i &gt;= 0;) {
+      alert('Hello ' + String(world));
+    }
+  }
+&lt;/script&gt;
+&lt;style&gt;
+  p { color: pink }
+  b { color: blue }
+  u { color: 'umber' }
+&lt;/style&gt;
+</pre>
+        </section>
+      </article>
+
+      <article class='smaller'>
+        <h3>
+          This slide has some code (small font)
+        </h3>
+        <section>
+        <pre>
+&lt;script type='text/javascript'&gt;
+  // Say hello world until the user starts questioning
+  // the meaningfulness of their existence.
+  function helloWorld(world) {
+    for (var i = 42; --i &gt;= 0;) {
+      alert('Hello ' + String(world));
+    }
+  }
+&lt;/script&gt;
+&lt;style&gt;
+  p { color: pink }
+  b { color: blue }
+  u { color: 'umber' }
+&lt;/style&gt;
+</pre>
+        </section>
+      </article>
+
+     
+
+      <article class='smaller'>
+        <q>
+          A distributed system is one in which the failure of a computer
+          you didn’t even know existed can render your own computer unusable.
+        </q>
+        <div class='author'>
+          Leslie Lamport
+        </div>
+      </article>
+
+      <article class='nobackground'>
+        <h3>
+          A slide with an embed + title
+        </h3>
+
+        <iframe src='http://www.google.com/doodle4google/history.html'></iframe>
+      </article>
+
+      <article class='nobackground'>
+        <iframe src='http://www.google.com/doodle4google/history.html'></iframe>
+      </article>
+
+      <article class='fill'>
+        <h3>
+          Full-slide embed with (optional) slide title on top
+        </h3>
+        <iframe src='http://www.google.com/doodle4google/history.html'></iframe>
+      </article>
+
+      <article>
+        <h3>
+          Thank you!
+        </h3>
+
+        <ul>
+          <li>
+            <a href='http://www.google.com'>google.com</a>
+        </ul>
+      </article> -->
+
+    </section>
+
+  </body>
+</html>
