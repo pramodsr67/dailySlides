@@ -1,0 +1,594 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"html",
+				"html5"
+			],
+			[
+				"dia",
+				"display"
+			],
+			[
+				"dis",
+				"display"
+			],
+			[
+				"flo",
+				"float"
+			],
+			[
+				"he",
+				"height"
+			],
+			[
+				"ret",
+				"ret1	return true"
+			],
+			[
+				"fal",
+				"false"
+			],
+			[
+				"pos",
+				"post_type"
+			],
+			[
+				"arra",
+				"array"
+			],
+			[
+				"defaul",
+				"default_settings"
+			],
+			[
+				"def",
+				"default"
+			],
+			[
+				"head",
+				"header"
+			],
+			[
+				"co",
+				"config"
+			],
+			[
+				"con",
+				"contents"
+			],
+			[
+				"s",
+				"string"
+			],
+			[
+				"hash",
+				"hash_password"
+			],
+			[
+				"form_",
+				"form_validation"
+			],
+			[
+				"margin",
+				"margin-top"
+			],
+			[
+				"Cont",
+				"CI_Controller"
+			],
+			[
+				"soc",
+				"socket"
+			],
+			[
+				"recipe",
+				"recipes"
+			],
+			[
+				"fon",
+				"font-family"
+			],
+			[
+				"creat",
+				"createServer"
+			],
+			[
+				"exp",
+				"express"
+			],
+			[
+				"list",
+				"listen"
+			],
+			[
+				"requ",
+				"request"
+			],
+			[
+				"cre",
+				"createServer"
+			],
+			[
+				"uplo",
+				"upload_to_s3_bucket"
+			],
+			[
+				"movi",
+				"movie_model"
+			],
+			[
+				"table",
+				"table_in"
+			],
+			[
+				"loca",
+				"localhost"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"movie",
+				"movie_id"
+			],
+			[
+				"Mo",
+				"Movie"
+			],
+			[
+				"respo",
+				"response"
+			],
+			[
+				"fine",
+				"filename"
+			],
+			[
+				"dev",
+				"dev_bucket"
+			],
+			[
+				"publi",
+				"public"
+			],
+			[
+				"view",
+				"view_data"
+			],
+			[
+				"admin",
+				"admin/admin_home"
+			],
+			[
+				"_",
+				"_POST"
+			],
+			[
+				"pass",
+				"password"
+			],
+			[
+				"Admin",
+				"Adminmodel"
+			],
+			[
+				"sha",
+				"sha256"
+			],
+			[
+				"print",
+				"print_r"
+			],
+			[
+				"ba",
+				"background-color"
+			],
+			[
+				"add",
+				"addmovie"
+			],
+			[
+				"base",
+				"base_url"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"contents": "\n\nInflection Point -\nBusiness Model   -\n\n\nWeekendhacks\n\n\nA social fashion site. Categorize your entire wardrobe with photos, favorite brand, sizes, date of purchase, photos of you wearing combinations, links to friends, that kind of stuff. If girls would program, such a site would have been invented around 1997 - instead we got slashdot.\n- human protocol (I call it HAPI - Human Application Protocol Interface). Basically reversed interned when people push the data instead of pull. Hard to explain shortly here. Basically a stream where each task has its code and you pushing \"strings\" of data where others can read them. no website, just plain data. For example you want to sell a car? you push \"status: 40 [selling], location: 4903 [New York], var1: 3254 [Model of car]\" etc. Then users build receivers that treat this information accordingly, but stream on its own in uncontrollable, something like uploaded torrent.\n\n\nA service which allows me to upload a document (PDF, .doc, whatever), input an address and then pay for it to be printed and sent to that address via mail (courier optional).\nI'd use this service so much:\n1. Printers are fast becoming a thing of the past. How often will people need to use printers in five years time?\n2. Lots of government functions still require printed documents (heck, even Twitter insisted that I fax them something a few years back).\n3. Post boxes, stamps and envelopes are a pain to get individually.\n\n\n# cardonce, pay online - Ask Niki\n# https://www.wonga.com/ for india\nYCombinator for XXX\nWikipedia lacks a ton of useful information when it comes to researching subjects. Quora questions, youtube videos, social information, extensive academic papers, social groups around the subject.\nSelf Powred Homes\n6. scale photos. Flickr doesn't.\n\n8. empower html5. (Where's the Adobe of HTML 5?)\n\n10. the apple of cycles\n\nSocial -> Gratify\n\n\n\nSummary/review of local arts and community events, mainly underground stuff. I don't have enough time in my day any more to look up who's playing a local show, what they sound like, when they're playing or where. Also don't have time to look up art shows or indie movies, or community-planned events and classes. There's a buttload of these things in big metropolitan areas, someone just needs to get paid to take the time to sort through it all and summarize it each week.\nNone of this is covered by local magazines or blogs. I can go out to record stores and coffee shops and collect flyers, search through myspace and facebook profiles for event listings and index twitter posts, but it takes all freakin day. If it was collected, summarized and publicized properly I think a lot more people would get out there and see what up and coming people are creating.\nEven if it were all covered by blogs (a lot of it is on twitter), I don't want to search through blogs or twitter or whatever, I just want an e-mail telling me what's coming up and describes it. That'd be worth $10 for me.\n\n\nI would pay for a large file transferring service.\n\nTheSixtyOneGot backup for your business?\n\nMozyPro online backup plans start at just under $10 a month.\n\n\nhttp://www.chatterous.com/\n\n\n\nYelp for business services \n\nWhen I want to find a good restaurant, I use Yelp. Yelp’s structured data helps me compare different options for eating out.\n\nWhen I want to find out which payroll company to use, I don’t have a Yelp equivalent. I have to email other founders, look at company website marketing pitches, search through HN for discussions about it, etc. It takes hours. And since the data isn’t organized, different people keep asking each other the same questions again and again.\n\nIf someone executed on this well, meaning that they compiled and structured data to make decisions easier, they’d be guiding millions of dollars of spend. We’d use this company to pick accountants, payroll companies, office-space designers, lawyers, and a lot of other services we don’t want to spend time researching. I suspect a lot of local businesses would use it as well.\n\nTake it three steps further. I want to know what tools of all types other developers are using. I'm a game developer want to browse what other studios are actually using and sort based on developer size, time, and more.\nFor example what do people use for Source Control? Small devs probably use Git or SVN. Show a time trend and SVN likely trends down and Git way way up. Large devs will almost exclusively use Perforce. I want to see this data for EVERYTHING. Text editors, modeling packing, memory managers, build tools, databases, profilers, and so so much more. There are dozens of amazing, wonderful tools/middleware/things out there that I don't even know exist.\nThis can naturally be expanded outside of software development, but I'm greedy and want to use it for myself first and foremost. :)\n\n\nhttp://osx.iusethis.com/\n\n\nhttp://www.bestvendor.com/best/business-finance\nwww.bestvendor.com\n\n\n\n\n\n\n\n\n\n-\n-----------------------------\nA movie information portal thing:\nI like different cinema. I want lists of -\n1) New releases on DVD; with links to places to buy those DVDs (or Blurays etc); also with links to different review sites; also with links to trailers\n2) New releases in cinema; with links to trailers; with links to official sites\n3) Awards; with links to trailers and buys\nA bit like Little White Lies magazine, but online and interactive and better.\n(http://www.littlewhitelies.co.uk/)",
+			"settings":
+			{
+				"buffer_size": 5436,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 375.0,
+		"selected_items":
+		[
+			[
+				"fet",
+				"Fetch"
+			],
+			[
+				"fetch",
+				"Fetch: Manage remote files"
+			],
+			[
+				"",
+				"Fetch"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"new",
+				"Tasks: New document"
+			],
+			[
+				"fetc",
+				"Fetch: Manage remote files"
+			],
+			[
+				"tas",
+				"Tasks: New document"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 386.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/xampp/htdocs/githubRepo/dailySlides/day2/final.html",
+		"/C/SublimeText2/Data/Packages/User/Fetch.sublime-settings",
+		"/C/xampp/htdocs/githubRepo/dailySlides/day2/blog/contact.html",
+		"/C/xampp/htdocs/githubRepo/dailySlides/day2/Readme.md",
+		"/C/xampp/htdocs/githubRepo/dailySlides/day2/blog/portfolio.html",
+		"/C/xampp/htdocs/githubRepo/dailySlides/day2/blog/about.html",
+		"/C/xampp/htdocs/githubRepo/dailySlides/day2/blog/index.html",
+		"/C/xampp/htdocs/githubRepo/dailySlides/day2/second.html",
+		"/C/xampp/htdocs/githubRepo/dailySlides/day2/html5.html",
+		"/C/xampp/htdocs/news/public/.htaccess",
+		"/C/xampp/htdocs/news/application/config/application.php",
+		"/C/xampp/htdocs/githubRepo/dailySlides/.gitignore",
+		"/C/xampp/htdocs/easeljs/simpleEaselJsExamples.txt",
+		"/C/xampp/htdocs/easeljs/index.html",
+		"/C/xampp/htdocs/easeljs/js/main.js",
+		"/C/xampp/htdocs/govendor/govendor.todo",
+		"/C/xampp/apache/conf/httpd.conf",
+		"/C/xampp/htdocs/Course Material/day1/README.md",
+		"/C/SublimeText2/_userfiles/daily.personal.TODO",
+		"/C/xampp/htdocs/phpisgood/wp-content/themes/phpisgood/style.css",
+		"/C/xampp/htdocs/phpisgood/wp-content/themes/phpisgood/js/script.js",
+		"/C/xampp/htdocs/phpisgood/wp-content/themes/phpisgood/index.php",
+		"/C/SublimeText2/Data/Packages/alternative_autocompletion/README.md",
+		"/C/xampp/htdocs/phpisgood/wp-content/themes/phpisgood/footer.php",
+		"/C/xampp/htdocs/phpisgood/wp-content/themes/phpisgood/phpIsGood.php",
+		"/C/xampp/htdocs/phpisgood/wp-content/themes/phpisgood/header.php",
+		"/C/xampp/htdocs/phpisgood/wp-content/themes/phpisgood/functions.php",
+		"/C/SublimeText2/_userfiles/netapp_templates",
+		"/C/SublimeText2/_userfiles/NetApp.TODO",
+		"/C/xampp/htdocs/phpisgood/wp-config.php",
+		"/C/xampp/htdocs/phpisgood/wp-content/themes/phpisgood/demo/elements.html",
+		"/C/xampp/htdocs/node2/fs/read.js",
+		"/C/xampp/htdocs/node2/fs/readsync.js",
+		"/C/xampp/htdocs/node2/fs/config.js",
+		"/C/xampp/htdocs/node2/fs/write.js",
+		"/C/xampp/htdocs/vartaa/application/routes.php",
+		"/C/xampp/htdocs/vartaa/application/views/home/index.blade.php",
+		"/C/xampp/htdocs/vartaa/application/views/app.blade.php",
+		"/C/xampp/htdocs/vartaa/vartaa.todo",
+		"/C/xampp/htdocs/vartaa/application/migrations/2012_09_25_183647_create_user_table.php",
+		"/C/SublimeText2/_userfiles/fqi_chirag",
+		"/C/xampp/htdocs/node2/sample.txt",
+		"/C/xampp/htdocs/node2/read.js",
+		"/C/xampp/htdocs/vartaa/application/config/database.php",
+		"/C/xampp/htdocs/sandbox/readme.md",
+		"/C/xampp/htdocs/vartaa/application/config/application.php",
+		"/C/xampp/htdocs/vartaa/application/start.php",
+		"/C/xampp/htdocs/vartaa/readme.md",
+		"/C/SublimeText2/_userfiles/life.personal.TODO",
+		"/F/The.Good.Shepherd[2006]DvDrip[Eng]-aXXo/IMPORTANT.Read carefully before enjoy this movie.txt",
+		"/C/xampp/htdocs/fbcrosspost/Things to be done",
+		"/C/SublimeText2/_userfiles/54.251.63 filmynerd",
+		"/C/xampp/htdocs/fbcrosspost/github.php",
+		"/C/xampp/htdocs/filmynerds/application/controllers/index.html",
+		"/C/xampp/htdocs/filmynerds/index.php",
+		"/C/xampp/htdocs/filmynerds/application/libraries/aws-sdk/sdk.class.php",
+		"/C/xampp/htdocs/filmynerds/application/libraries/aws-sdk/config.inc.php",
+		"/C/xampp/htdocs/filmynerds/README.md",
+		"/C/SublimeText2/_userfiles/simplenote/Todo.txt",
+		"/C/xampp/htdocs/ci/onemoretodo.py",
+		"/C/xampp/htdocs/sandbox/New Text Document.txt",
+		"/C/xampp/htdocs/fbcrosspost/pub/css/main.css",
+		"/C/xampp/htdocs/filmynerds/pub/css/main.css",
+		"/C/xampp/htdocs/filmynerds/application/views/welcome_message.php",
+		"/C/xampp/htdocs/sandbox/application/config/application.php",
+		"/C/xampp/htdocs/daily.personal.TODO",
+		"/C/SublimeText2/Data/Packages/AdvancedNewFile/Default (Windows).sublime-keymap",
+		"/C/SublimeText2/Data/Packages/AdvancedNewFile/README.rst",
+		"/C/xampp/htdocs/filmynerds/application/libraries/facebook/Facebook.php",
+		"/C/xampp/htdocs/filmynerds/application/config/config.php",
+		"/C/xampp/htdocs/filmynerds/application/models/mediabox_model.php",
+		"/C/xampp/htdocs/filmynerds/application/libraries/aws-sdk/.git/description",
+		"/C/xampp/htdocs/filmynerds/application/libraries/aws-sdk/.git/index",
+		"/C/xampp/htdocs/fbcrosspost/index.php",
+		"/C/xampp/htdocs/fbcrosspost/application/config/config.php",
+		"/C/xampp/htdocs/fbcrosspost/application/config/database.php",
+		"/C/xampp/htdocs/fbcrosspost/application/controllers/admins.php",
+		"/C/xampp/htdocs/fbcrosspost/application/models/admin_model.php",
+		"/C/xampp/htdocs/ci/application/config/config.php",
+		"/C/xampp/htdocs/ci/application/views/layouts/app_footer.php",
+		"/C/xampp/htdocs/ci/Readme.md",
+		"/C/xampp/htdocs/fbcrosspost/application/controllers/app.php",
+		"/C/xampp/htdocs/ci/index.php",
+		"/C/xampp/htdocs/ci/application/config/autoload.php",
+		"/C/xampp/htdocs/ci/application/views/auth/login.php",
+		"/C/xampp/htdocs/ci/application/controllers/auth.php",
+		"/C/xampp/htdocs/ci/application/views/layouts/app_header.php",
+		"/C/xampp/htdocs/ci/application/views/layouts/app_topbar.php",
+		"/C/xampp/htdocs/fbcrosspost/application/config/autoload.php",
+		"/C/xampp/htdocs/d/index.php",
+		"/C/xampp/htdocs/d/application/config/config.php",
+		"/C/xampp/htdocs/d/application/config/database.php",
+		"/C/xampp/htdocs/d/js/application.js",
+		"/C/xampp/htdocs/d/application/views/layouts/app_header.php",
+		"/C/xampp/htdocs/d/application/views/layouts/app_topbar.php",
+		"/C/xampp/htdocs/d/application/views/layouts/app_footer.php",
+		"/C/xampp/htdocs/d/application/views/app/index.php",
+		"/C/xampp/htdocs/d/css/application.css",
+		"/C/xampp/htdocs/d/application/views/layouts/app.php",
+		"/C/xampp/htdocs/d/application/core/MY_Controller.php",
+		"/C/xampp/htdocs/fbcrosspost/application/core/MY_Controller.php",
+		"/C/xampp/htdocs/d/application/controllers/app.php",
+		"/C/xampp/htdocs/fbcrosspost/application/views/template.php",
+		"/C/xampp/htdocs/d/application/config/routes.php",
+		"/C/xampp/htdocs/d/application/views/layouts/admin.php",
+		"/C/xampp/htdocs/d/application/config/autoload.php",
+		"/C/xampp/htdocs/d/application/core/MY_Model.php",
+		"/C/xampp/htdocs/fbcrosspost/.htaccess",
+		"/C/xampp/htdocs/d/.htaccess",
+		"/C/xampp/htdocs/tcb/application/views/starter-template.html",
+		"/C/xampp/htdocs/tcb/application/views/index.html",
+		"/C/xampp/htdocs/node/server.js",
+		"/C/xampp/htdocs/node/public/index.html",
+		"/C/xampp/htdocs/tcb/application/config/application.php",
+		"/C/node/chat/server.js",
+		"/C/Console2/console.xml",
+		"/C/xampp/htdocs/devmarks/application/config/application.php",
+		"/C/xampp/htdocs/devmarks/application/config/database.php",
+		"/C/xampp/htdocs/devmarks/application/migrations/2012_09_23_174745_create_authors_table.php",
+		"/C/xampp/htdocs/devmarks/readme.md",
+		"/C/node/chat/public/index.html",
+		"/C/node/tcp.js",
+		"/C/xampp/htdocs/fbcrosspost/application/views/admins/viewmovie.php",
+		"/C/xampp/htdocs/fbcrosspost/application/views/layouts/admin-topbar.php",
+		"/C/xampp/htdocs/fbcrosspost/application/views/admins/dashboard.php",
+		"/C/xampp/htdocs/fbcrosspost/application/views/admins/listmovies.php",
+		"/C/xampp/htdocs/fbcrosspost/application/views/admins/addmovie.php",
+		"/C/node/read/script.js"
+	],
+	"find":
+	{
+		"height": 36.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"C:\\xampp\\htdocs\\fbcrosspost\\application\\",
+			"",
+			"C:\\xampp\\htdocs\\fbcrosspost"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			",",
+			"Bangalore",
+			"xampp",
+			"add_post_type",
+			" \n",
+			"G",
+			"\n	              ",
+			"			\n",
+			"increments",
+			");\n",
+			"pathinfo",
+			"($",
+			"admin_id",
+			"before_get",
+			"get",
+			"get_all",
+			"trigger",
+			"nikita",
+			"post",
+			"pack",
+			"        \n",
+			"create_objects",
+			"create_object",
+			"this",
+			"        $",
+			"to_array",
+			"();",
+			"base_url",
+			"autoload",
+			"autoload($class_name)",
+			"activerecord_autoload($class_name)",
+			"Admins",
+			"{\n",
+			"Admins",
+			"autoid",
+			"admin_home",
+			"Hewitt ",
+			"class Auth extends MY_Controller",
+			"MY_Controller",
+			"Adminmodel",
+			"2316",
+			"citi",
+			"images"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"10"
+		],
+		"reverse": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"settings":
+					{
+						"buffer_size": 5436,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								5436,
+								5436
+							]
+						],
+						"settings":
+						{
+							"auto_name": "",
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"net",
+				"_userfiles/NetApp.TODO"
+			],
+			[
+				"heade",
+				"phpisgood/header.php"
+			],
+			[
+				"style",
+				"phpisgood/style.css"
+			],
+			[
+				"persona",
+				"_userfiles/daily.personal.TODO"
+			],
+			[
+				"perso",
+				"_userfiles/daily.personal.TODO"
+			],
+			[
+				"chirag",
+				"_userfiles/fqi_chirag"
+			],
+			[
+				"ro",
+				"vartaa/application/routes.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 130.0,
+	"status_bar_visible": true
+}
